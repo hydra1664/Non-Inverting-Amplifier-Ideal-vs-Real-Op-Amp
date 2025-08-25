@@ -1,0 +1,1 @@
+# Non-Inverting-Amplifier-Ideal-vs-Real-Op-Amp
